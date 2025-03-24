@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41c6701c-da6b-4783-a17a-537683342777" name="Changes" comment="Tarea 4. Compiladores.&#10;Analizador Flex.&#10;Raynick Rosario&#10;1-21-0012">
-      <change afterPath="$PROJECT_DIR$/Tarea 7/Analizador_Semantico.py" afterDir="false" />
+    <list default="true" id="41c6701c-da6b-4783-a17a-537683342777" name="Changes" comment="Tarea 5. Compiladores.&#10;Analizador Semantico.&#10;Raynick Rosario&#10;1-21-0012">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarea 7/Analizador_Semantico.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tarea 7/Analizador_Semantico.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,22 +35,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.AnalizadorSintactico.executor": "Run",
-    "Python.Analizador_Flex.executor": "Run",
-    "Python.Analizador_Semantico.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "build.tools",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AnalizadorSintactico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Analizador_Flex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Analizador_Semantico.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Tarea 4" />
@@ -105,7 +105,8 @@
       <workItem from="1739154249537" duration="5974000" />
       <workItem from="1739745206972" duration="1027000" />
       <workItem from="1739833665595" duration="679000" />
-      <workItem from="1741574148949" duration="332000" />
+      <workItem from="1741574148949" duration="453000" />
+      <workItem from="1741647077474" duration="902000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea 3. Compiladores.&#10;Compilador Flex.&#10;Raynick Rosario&#10;1-21-0012">
       <option name="closed" value="true" />
@@ -123,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739745863786</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tarea 5. Compiladores.&#10;Analizador Semantico.&#10;Raynick Rosario&#10;1-21-0012">
+      <option name="closed" value="true" />
+      <created>1741574504628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741574504628</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,10 +141,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tarea 3. Compiladores.&#10;Compilador Flex.&#10;Raynick Rosario&#10;1-21-0012" />
     <MESSAGE value="Tarea 4. Compiladores.&#10;Analizador Flex.&#10;Raynick Rosario&#10;1-21-0012" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea 4. Compiladores.&#10;Analizador Flex.&#10;Raynick Rosario&#10;1-21-0012" />
+    <MESSAGE value="Tarea 5. Compiladores.&#10;Analizador Semantico.&#10;Raynick Rosario&#10;1-21-0012" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea 5. Compiladores.&#10;Analizador Semantico.&#10;Raynick Rosario&#10;1-21-0012" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Compiladores$Analizador_Flex.coverage" NAME="Analizador_Flex Coverage Results" MODIFIED="1739230707978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Compiladores$AnalizadorSintactico.coverage" NAME="AnalizadorSintactico Coverage Results" MODIFIED="1739834215439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tarea 4" />
+    <SUITE FILE_PATH="coverage/Compiladores$Analizador_Semantico.coverage" NAME="Analizador_Semantico Coverage Results" MODIFIED="1741647881703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tarea 7" />
   </component>
 </project>
