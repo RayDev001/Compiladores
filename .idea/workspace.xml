@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41c6701c-da6b-4783-a17a-537683342777" name="Changes" comment="Tarea 5. Compiladores.&#10;Analizador Semantico.&#10;Raynick Rosario&#10;1-21-0012">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea 7/Analizador_Semantico.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tarea 7/Analizador_Semantico.py" afterDir="false" />
-    </list>
+    <list default="true" id="41c6701c-da6b-4783-a17a-537683342777" name="Changes" comment="Tarea 7. Compiladores.&#10;Compilador.&#10;Raynick Rosario&#10;1-21-0012" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +37,7 @@
     &quot;Python.AnalizadorSintactico.executor&quot;: &quot;Run&quot;,
     &quot;Python.Analizador_Flex.executor&quot;: &quot;Run&quot;,
     &quot;Python.Analizador_Semantico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Compilador.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -107,6 +105,7 @@
       <workItem from="1739833665595" duration="679000" />
       <workItem from="1741574148949" duration="453000" />
       <workItem from="1741647077474" duration="902000" />
+      <workItem from="1742774488364" duration="1383000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea 3. Compiladores.&#10;Compilador Flex.&#10;Raynick Rosario&#10;1-21-0012">
       <option name="closed" value="true" />
@@ -132,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741574504628</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tarea 7. Compiladores.&#10;Compilador.&#10;Raynick Rosario&#10;1-21-0012">
+      <option name="closed" value="true" />
+      <created>1742775771151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742775771151</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,11 +149,13 @@
     <MESSAGE value="Tarea 3. Compiladores.&#10;Compilador Flex.&#10;Raynick Rosario&#10;1-21-0012" />
     <MESSAGE value="Tarea 4. Compiladores.&#10;Analizador Flex.&#10;Raynick Rosario&#10;1-21-0012" />
     <MESSAGE value="Tarea 5. Compiladores.&#10;Analizador Semantico.&#10;Raynick Rosario&#10;1-21-0012" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea 5. Compiladores.&#10;Analizador Semantico.&#10;Raynick Rosario&#10;1-21-0012" />
+    <MESSAGE value="Tarea 7. Compiladores.&#10;Compilador.&#10;Raynick Rosario&#10;1-21-0012" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea 7. Compiladores.&#10;Compilador.&#10;Raynick Rosario&#10;1-21-0012" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Compiladores$Analizador_Flex.coverage" NAME="Analizador_Flex Coverage Results" MODIFIED="1739230707978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Compiladores$AnalizadorSintactico.coverage" NAME="AnalizadorSintactico Coverage Results" MODIFIED="1739834215439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tarea 4" />
-    <SUITE FILE_PATH="coverage/Compiladores$Analizador_Semantico.coverage" NAME="Analizador_Semantico Coverage Results" MODIFIED="1741647881703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tarea 7" />
+    <SUITE FILE_PATH="coverage/Compiladores$Compilador.coverage" NAME="Compilador Coverage Results" MODIFIED="1742775434889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 7 Real" />
+    <SUITE FILE_PATH="coverage/Compiladores$Analizador_Semantico.coverage" NAME="Analizador_Semantico Coverage Results" MODIFIED="1742775148525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tarea 7" />
   </component>
 </project>
