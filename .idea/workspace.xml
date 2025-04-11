@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41c6701c-da6b-4783-a17a-537683342777" name="Changes" comment="Tarea 7. Compiladores.&#10;Compilador.&#10;Raynick Rosario&#10;1-21-0012" />
+    <list default="true" id="41c6701c-da6b-4783-a17a-537683342777" name="Changes" comment="Final Compiladores.&#10;Compilador.&#10;Raynick Rosario&#10;1-21-0012" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,6 +106,7 @@
       <workItem from="1741574148949" duration="453000" />
       <workItem from="1741647077474" duration="902000" />
       <workItem from="1742774488364" duration="1383000" />
+      <workItem from="1743391074605" duration="756000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea 3. Compiladores.&#10;Compilador Flex.&#10;Raynick Rosario&#10;1-21-0012">
       <option name="closed" value="true" />
@@ -139,7 +140,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742775771151</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Final Compiladores.&#10;Compilador.&#10;Raynick Rosario&#10;1-21-0012">
+      <option name="closed" value="true" />
+      <created>1743391159333</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743391159333</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Final Compiladores.&#10;Compilador.&#10;Raynick Rosario&#10;1-21-0012">
+      <option name="closed" value="true" />
+      <created>1743391225470</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743391225470</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +167,8 @@
     <MESSAGE value="Tarea 4. Compiladores.&#10;Analizador Flex.&#10;Raynick Rosario&#10;1-21-0012" />
     <MESSAGE value="Tarea 5. Compiladores.&#10;Analizador Semantico.&#10;Raynick Rosario&#10;1-21-0012" />
     <MESSAGE value="Tarea 7. Compiladores.&#10;Compilador.&#10;Raynick Rosario&#10;1-21-0012" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea 7. Compiladores.&#10;Compilador.&#10;Raynick Rosario&#10;1-21-0012" />
+    <MESSAGE value="Final Compiladores.&#10;Compilador.&#10;Raynick Rosario&#10;1-21-0012" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Compiladores.&#10;Compilador.&#10;Raynick Rosario&#10;1-21-0012" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Compiladores$Analizador_Flex.coverage" NAME="Analizador_Flex Coverage Results" MODIFIED="1739230707978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
